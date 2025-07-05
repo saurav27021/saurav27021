@@ -1,16 +1,38 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm [Your Name Here]</h1>
+<h3 align="center">🚀 Beginner Coder | Learning DSA & Web Dev</h3>
 
-<!--
-**saurav27021/saurav27021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on **learning JavaScript, C++ and basic Web Dev projects**
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **Data Structures, C++, HTML, CSS, and JavaScript**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👯 I’m looking to collaborate on **beginner-friendly open source and frontend projects**
+
+- 🤝 I’m looking for help with **JavaScript and Git**
+
+- 📫 How to reach me: **[your.email@gmail.com]**  
+  [LinkedIn](https://www.linkedin.com/in/your-link)  
+
+- ⚡ Fun fact: *I’m not a pro yet, but I’m grinding daily!*
+
+---
+
+### 🛠️ Languages and Tools:
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,html,css,js,github,vscode,bootstrap,git" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=tokyonight" alt="GitHub Streak"/>
+</p>
+
+---
+
+### 🔝 Most Used Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" />
+</p>
