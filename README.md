@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm [Your Name Here]</h1>
+<h1 align="center">Hi 👋, I'm Saurav</h1>
+
 <h3 align="center">🚀 Beginner Coder | Learning DSA & Web Dev</h3>
 
 - 🔭 I’m currently working on **learning JavaScript, C++ and basic Web Dev projects**
@@ -9,8 +10,8 @@
 
 - 🤝 I’m looking for help with **JavaScript and Git**
 
-- 📫 How to reach me: **[your.email@gmail.com]**  
-  [LinkedIn](https://www.linkedin.com/in/your-link)  
+- 📫 How to reach me: sauravthespi@gmail.com | https://www.linkedin.com/in/saurav-kumar-singh-248b42298/
+    
 
 - ⚡ Fun fact: *I’m not a pro yet, but I’m grinding daily!*
 
